@@ -1,0 +1,21 @@
+streamlit
+python-dotenv
+reportlab                                         
+groq
+
+event
+famous food
+caution & awareness & security
+booking links
+train route
+map for place
+
+Ui
+
+nav bar
+per person price
+queries
+"introduction"
+accomodation
+trip days
+total estimation
